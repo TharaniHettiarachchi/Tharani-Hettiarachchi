@@ -1,23 +1,48 @@
-# Tharani-Hettiarachchi
+# Hi 👋, I'm Tharani Hettiarachchi  
+_A passionate frontend developer from Sri Lanka_
 
-<h1 align="center">Hi 👋, I'm Tharani Hettiarachchi</h1>
-<h3 align="center">A passionate frontend developer from Srilanka</h3>
+---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tharani-hettiarachchi&label=Profile%20views&color=0e75b6&style=flat" alt="tharani-hettiarachchi" /> </p>
+## 🔹 About Me
+- 🎓 IS Undergraduate (2nd year)  
+- 🌱 Currently learning **Java & Data Analytics**  
+- 💡 Interested in **Business Analysis | UI/UX | Project Management**  
+- 💬 Ask me about **Java, SQL, Python**  
 
-- 🌱 I’m currently learning **java**
+---
 
-- 💬 Ask me about **java**
+## 🔹 Skills & Tools
+![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
 
-- 📫 How to reach me **22fiso464@ms.sab.ac.lk**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/tharani udeshika hettiarachchi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tharani udeshika hettiarachchi" height="30" width="40" /></a>
-<a href="https://fb.com/tharani hettiarachchi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tharani hettiarachchi" height="30" width="40" /></a>
-</p>
+## 🔹 Projects
+🚀 [Project 1: Portfolio Website](https://github.com/your-username/portfolio)  
+📊 [Project 2: Data Analysis with Python](https://github.com/your-username/data-analysis)  
+🛒 [Project 3: Mini E-commerce App](https://github.com/your-username/ecommerce-app)  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tharani-hettiarachchi&show_icons=true&locale=en&layout=compact" alt="tharani-hettiarachchi" /></p>
+## 🔹 Learning & Goals
+- 📘 Next: React, Jira, Confluence  
+- 🎯 Goal: Become a **Business Analyst / Project Manager**
+
+---
+
+## 🔹 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tharani-Hettiarachchi&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harani-Hettiarachchi&layout=compact&theme=tokyonight)  
+
+---
+
+## 🔹 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tharani-udeshika-hettiarachchi-9bb93b33a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/share/1AsfqMsFUB/)  
+📫 Email: [22fiso464@ms.sab.ac.lk](mailto:22fiso464@ms.sab.ac.lk)
+
