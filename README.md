@@ -1,6 +1,7 @@
 # Hi 👋, I'm Tharani Hettiarachchi  
 
-[Banner](https://www.canva.com/design/DAGwnWLUEEY/7SPVB1GP0s8uPuyw0gy2wQ/edit?utm_content=DAGwnWLUEEY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+[Banner](<img width="851" height="315" alt="Simple Aesthetic Business Real Estate Facebook Cover" src="https://github.com/user-attachments/assets/d42c9014-7ecb-4f77-bb6f-6aab7f2598e8" />)
+
 
 _A passionate frontend developer from Sri Lanka_
 
