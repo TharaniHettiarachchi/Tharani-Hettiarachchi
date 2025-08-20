@@ -1,6 +1,6 @@
 # Hi 👋, I'm Tharani Hettiarachchi  
 
-![Banner](https://www.canva.com/design/DAGwnWLUEEY/7SPVB1GP0s8uPuyw0gy2wQ/edit?utm_content=DAGwnWLUEEY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+[Banner](https://www.canva.com/design/DAGwnWLUEEY/7SPVB1GP0s8uPuyw0gy2wQ/edit?utm_content=DAGwnWLUEEY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 _A passionate frontend developer from Sri Lanka_
 
