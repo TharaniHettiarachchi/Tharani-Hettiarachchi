@@ -1,6 +1,4 @@
 # Hi 👋, I'm Tharani Hettiarachchi  
-![Banner](![Uploading Simple Aesthetic Business Real Estate Facebook Cover.png…]()
-)
 
 _A passionate frontend developer from Sri Lanka_
 
