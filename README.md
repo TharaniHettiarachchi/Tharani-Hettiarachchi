@@ -33,7 +33,7 @@ README.md for your GitHub profile.
 
 ## 🔹 Skills & Tools
 <!-- Use shields.io badges; add/remove as you like -->
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
@@ -45,19 +45,6 @@ README.md for your GitHub profile.
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
-
----
-
-## 🔹 Featured Projects
-<!-- Replace links/titles/descriptions with your repos -->
-- 🚀 **Portfolio Website** – Personal site with projects & blog  
-  🔗 Live: https://YOUR_USERNAME.github.io • Code: https://github.com/YOUR_USERNAME/portfolio
-- 🛒 **Mini E-commerce App** – Product listing, cart, and checkout mock  
-  🔗 Code: https://github.com/YOUR_USERNAME/ecommerce-app
-- 📊 **Data Analysis with Python** – Exploratory analysis + visualization  
-  🔗 Code: https://github.com/YOUR_USERNAME/data-analysis
-
-> Tip: Pin these repositories on your profile (Profile → Customize profile → Pinned).
 
 ---
 
