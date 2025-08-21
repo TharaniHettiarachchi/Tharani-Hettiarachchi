@@ -12,7 +12,7 @@ README.md for your GitHub profile.
 
 
 <p align="center">
-  <img src="images/banner.png" alt="Tharani Hettiarachchi — Frontend Developer" width="100%">
+  <img width="851" height="315" alt="Image" src="https://github.com/user-attachments/assets/715b6aea-cd18-49a6-a14c-ab4b526207ea" />
 </p>
 
 <p align="center">
