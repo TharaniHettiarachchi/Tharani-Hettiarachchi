@@ -6,12 +6,14 @@ README.md for your GitHub profile.
 -->
 
 <!-- Banner (full-width, centered). Change the src if your file name/path differs -->
-<p align="center">
-  <img src="images/banner.png" alt="Tharani Hettiarachchi — Frontend Developer" width="100%">
-</p>
 
 <h1 align="center">Hi 👋, I'm Tharani Hettiarachchi</h1>
 <p align="center">A passionate frontend developer from Sri Lanka</p>
+
+
+<p align="center">
+  <img src="images/banner.png" alt="Tharani Hettiarachchi — Frontend Developer" width="100%">
+</p>
 
 <p align="center">
   <a href="mailto:22fiso464@ms.sab.ac.lk">📫 22fiso464@ms.sab.ac.lk</a> •
