@@ -16,7 +16,7 @@ README.md for your GitHub profile.
 </p>
 
 <p align="center">
-  <a href="mailto:22fiso464@ms.sab.ac.lk">📫 22fiso464@ms.sab.ac.lk</a> •
+  <a href="mailto:22fiso464@ms.sab.ac.lk">📫 tharaniudeshika6@gmail.com</a> •
   <a href="https://www.linkedin.com/in/YOUR_USERNAME">LinkedIn</a> •
   <a href="https://tharani.dev">Portfolio</a>
 </p>
