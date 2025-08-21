@@ -7,7 +7,7 @@ README.md for your GitHub profile.
 
 <!-- Banner (full-width, centered). Change the src if your file name/path differs -->
 <p align="center">
-  <img src="images/banner.png" alt="Tharani Hettiarachchi — Frontend Developer" width="100%">
+  <img width="851" height="315" alt="Image" src="https://github.com/user-attachments/assets/bb855d09-2087-4d83-9efd-992a6b1b585e" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Tharani Hettiarachchi</h1>
@@ -15,7 +15,7 @@ README.md for your GitHub profile.
 
 <p align="center">
   <a href="mailto:22fiso464@ms.sab.ac.lk">📫 22fiso464@ms.sab.ac.lk</a> •
-  <a href="https://www.linkedin.com/in/YOUR_USERNAME">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/Tharani Udeshika Hettiarachchi">LinkedIn</a> •
   <a href="https://tharani.dev">Portfolio</a>
 </p>
 
@@ -68,10 +68,10 @@ README.md for your GitHub profile.
 ## 🔹 GitHub Stats
 <!-- Replace YOUR_USERNAME in the URLs -->
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&rank_icon=github&hide_title=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Tharani-Hettiarachchi&show_icons=true&rank_icon=github&hide_title=true" alt="GitHub Stats" />
 </p>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tharani-Hettiarachchi&layout=compact" alt="Top Languages" />
 </p>
 
 <!-- Optional activity graph
@@ -81,10 +81,10 @@ README.md for your GitHub profile.
 ---
 
 ## 🔹 Connect with Me
-<a href="https://www.linkedin.com/in/YOUR_USERNAME">
+<a href="https://www.linkedin.com/in/Tharani Udeshika Hettiarachchi">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white">
 </a>
-<a href="https://www.facebook.com/YOUR_USERNAME">
+<a href="https://www.facebook.com/Tharani Hettiarachchi">
   <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white">
 </a>
 <a href="mailto:22fiso464@ms.sab.ac.lk">
