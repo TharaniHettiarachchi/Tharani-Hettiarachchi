@@ -1,25 +1,97 @@
-<h1 align="center">Hi 👋, I'm Tharani-Hettiarachchi</h1>
-<h3 align="center">A passionate frontend developer from Srilanka</h3>
+<!--
+README.md for your GitHub profile.
+1) Upload your banner to this repo at images/banner.png
+   (Repo name must be exactly your GitHub username)
+2) Replace YOUR_USERNAME and placeholder links below.
+-->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tharani-hettiarachchi&label=Profile%20views&color=0e75b6&style=flat" alt="tharani-hettiarachchi" /> </p>
-
-- 🌱 I’m currently learning **java**
-
-- 👨‍💻 All of my projects are available at [https://tharanihettiarachchi.github.io/Tharani-Hettiarachchi/](https://tharanihettiarachchi.github.io/Tharani-Hettiarachchi/)
-
-- 💬 Ask me about **java**
-
-- 📫 How to reach me **tharaniudeshika6@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/tharani udeshika hettiarachchi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tharani udeshika hettiarachchi" height="30" width="40" /></a>
-<a href="https://fb.com/tharani hettiarachchi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tharani hettiarachchi" height="30" width="40" /></a>
+<!-- Banner (full-width, centered). Change the src if your file name/path differs -->
+<p align="center">
+  <img src="images/banner.png" alt="Tharani Hettiarachchi — Frontend Developer" width="100%">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<h1 align="center">Hi 👋, I'm Tharani Hettiarachchi</h1>
+<p align="center">A passionate frontend developer from Sri Lanka</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tharani-hettiarachchi&show_icons=true&locale=en&layout=compact" alt="tharani-hettiarachchi" /></p>
+<p align="center">
+  <a href="mailto:22fiso464@ms.sab.ac.lk">📫 22fiso464@ms.sab.ac.lk</a> •
+  <a href="https://www.linkedin.com/in/YOUR_USERNAME">LinkedIn</a> •
+  <a href="https://tharani.dev">Portfolio</a>
+</p>
 
+---
 
+## 🔹 About Me
+- 🎓 IS Undergraduate (2nd year)  
+- 🌱 Currently learning **Java** & **Data Analytics**  
+- 💡 Interested in **Business Analysis · UI/UX · Project Management**  
+- 💬 Ask me about **Java, SQL, Python**  
+
+---
+
+## 🔹 Skills & Tools
+<!-- Use shields.io badges; add/remove as you like -->
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
+
+---
+
+## 🔹 Featured Projects
+<!-- Replace links/titles/descriptions with your repos -->
+- 🚀 **Portfolio Website** – Personal site with projects & blog  
+  🔗 Live: https://YOUR_USERNAME.github.io • Code: https://github.com/YOUR_USERNAME/portfolio
+- 🛒 **Mini E-commerce App** – Product listing, cart, and checkout mock  
+  🔗 Code: https://github.com/YOUR_USERNAME/ecommerce-app
+- 📊 **Data Analysis with Python** – Exploratory analysis + visualization  
+  🔗 Code: https://github.com/YOUR_USERNAME/data-analysis
+
+> Tip: Pin these repositories on your profile (Profile → Customize profile → Pinned).
+
+---
+
+## 🔹 Learning & Goals
+- 📘 Next up: **React**, **Jira**, **Confluence**
+- 🎯 Goal: Become a **Business Analyst / Project Manager** with strong UI/UX skills
+
+---
+
+## 🔹 GitHub Stats
+<!-- Replace YOUR_USERNAME in the URLs -->
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&rank_icon=github&hide_title=true" alt="GitHub Stats" />
+</p>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" alt="Top Languages" />
+</p>
+
+<!-- Optional activity graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME" alt="Activity Graph"/>
+-->
+
+---
+
+## 🔹 Connect with Me
+<a href="https://www.linkedin.com/in/YOUR_USERNAME">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white">
+</a>
+<a href="https://www.facebook.com/YOUR_USERNAME">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white">
+</a>
+<a href="mailto:22fiso464@ms.sab.ac.lk">
+  <img src="https://img.shields.io/badge/Email-181717?logo=gmail&logoColor=white">
+</a>
+
+---
+
+<!-- Footer note -->
+<p align="center">⭐️ If you like my work, consider giving my repos a star!</p>
