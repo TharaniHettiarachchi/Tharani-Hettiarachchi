@@ -52,6 +52,10 @@
 ---
 
 ## 🐍 Contribution Snake  
+## 🐍 Contribution Snake  
+<p align="center">
+  <img src="https://github.com/Tharani-Hettiarachchi/Tharani-Hettiarachchi/blob/output/github-contribution-grid-snake.svg" />
+</p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
