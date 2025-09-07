@@ -1,6 +1,6 @@
 <!-- Banner / Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Hi%20I'm%20YourName%20👋&fontSize=40&fontAlignY=35&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Hi%20I'm%20Tharani Hettiarachchi%20👋&fontSize=40&fontAlignY=35&animation=twinkling" />
 </p>
 
 <!-- Typing animation -->
