@@ -1,6 +1,6 @@
 <!-- Fancy Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=35&duration=4000&pause=1000&color=00C2CB&center=true&vCenter=true&width=800&lines=Hey!+I'm+YourName+👋;A+Passionate+Developer+💻;Open+Source+Contributor+🌍;Always+Learning+New+Things+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=35&duration=4000&pause=1000&color=00C2CB&center=true&vCenter=true&width=800&lines=Hey!+I'm+Tharani+Hettiarachchi+👋;A+Passionate+Developer+💻;Open+Source+Contributor+🌍;Always+Learning+New+Things+🚀" alt="Typing SVG" />
 </p>
 
 ---
@@ -18,7 +18,7 @@
 ## 🛠️ My Tech Toolbox  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,python,java,php,mysql,mongodb,git,github,figma,vscode,linux&perline=8" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,python,java,php,mysql,mongodb,git,github,figma,vscode,c,linux&perline=8" />
 </p>
 
 ---
@@ -26,11 +26,11 @@
 ## 🚀 Featured Projects  
 
 <p align="center">
-  <a href="https://github.com/YourUsername/Project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=Project1&theme=tokyonight" />
+  <a href="https://github.com/Tharani-Hettiarachchi/Project1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tharani-Hettiarachchi&repo=Project1&theme=tokyonight" />
   </a>
-  <a href="https://github.com/YourUsername/Project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=Project2&theme=tokyonight" />
+  <a href="https://github.com/Tharani-Hettiarachchi/Project2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tharani-Hettiarachchi&repo=Project2&theme=tokyonight" />
   </a>
 </p>
 
@@ -39,12 +39,12 @@
 ## 📊 GitHub Stats & Activity  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical" height="150"/>
-  <img src="https://streak-stats.demolab.com?user=YourUsername&theme=radical&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Tharani-Hettiarachchi&show_icons=true&theme=radical" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=Tharani-Hettiarachchi&theme=radical&hide_border=true" height="150"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YourUsername&theme=react-dark&bg_color=20232a&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tharani-Hettiarachchi&theme=react-dark&bg_color=20232a&hide_border=true" />
 </p>
 
 ---
@@ -52,7 +52,7 @@
 ## 🏆 GitHub Achievements  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YourUsername&theme=algolia&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Tharani-Hettiarachchi&theme=algolia&no-frame=true&row=1&column=6" />
 </p>
 
 ---
@@ -60,9 +60,9 @@
 ## 🌐 Connect with Me  
 
 <p align="center">
-  <a href="mailto:yourmail@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/YourUsername"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:tharaniudeshika6@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/Tharani Udeshika Hettiarachchi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Tharani-Hettiarachchi"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
