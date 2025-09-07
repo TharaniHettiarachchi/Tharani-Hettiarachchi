@@ -26,7 +26,7 @@
 ## 🚀 Featured Projects  
 
 <p align="center">
-  <a href="https://github.com/Tharani-Hettiarachchi/Project1">
+  <a href="https://github.com/Tharani-Hettiarachchi/Web-project-1">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tharani-Hettiarachchi&repo=Project1&theme=tokyonight" />
   </a>
   <a href="https://github.com/Tharani-Hettiarachchi/Project2">
