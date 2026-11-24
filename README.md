@@ -3,7 +3,7 @@
 Hi, I'm Tharani 👋
 Aspiring QA Engineer focused on manual testing, defect identification and quality-driven delivery.
 
-🔗 Live Portfolio: https://tharani-quality-showcase.lovable.app
+🔗 Live Portfolio: https://tharani-hettiarachchi.lovable.app
 
 ## About Me
 BSc (Hons) in Information Systems undergraduate at Sabaragamuwa University of Sri Lanka.
